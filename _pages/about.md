@@ -30,3 +30,7 @@ The project is explained in more extensive detail in the report below:
 
 [GMAT Simulation Code](https://github.com/ynoureddine/GMAT_OrbitalRendezvous/tree/main)
 
+# 2. AAE 497: Aircraft Dynamics Simulation
+This project consists of a set of Python scripts that simulate several aspects of aircraft flight trajectory using a set of input parameters. This is explained in more detail in the Github Repository linked below:
+
+[Github - Aircraft Dynamics Simulation](https://github.com/ynoureddine/Aircraft-Dynamics-Simulation)
