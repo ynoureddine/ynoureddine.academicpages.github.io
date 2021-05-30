@@ -1,13 +1,13 @@
 # main links links
 main:
-  - title: "Teaching"
-    url: /teaching/    
+#  - title: "Teaching"
+#    url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+#  - title: "Portfolio"
+#   url: /portfolio/
         
-  - title: "Personal"
-    url: /personal/
+#  - title: "Personal"
+#    url: /personal/
     
-  - title: "CV"
-    url: /cv/
+#  - title: "CV"
+#    url: /cv/
