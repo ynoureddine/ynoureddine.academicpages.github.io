@@ -26,4 +26,7 @@ The video linked below shows the results of our GMAT simulations and analysis th
 
 The project is explained in more extensive detail in the report below:
 
-GMAT simulation code: 
+[Final Project Report](https://drive.google.com/file/d/18KDvSTkez_e-awAvBRTIuSWnQADe2SOX/view)
+
+[GMAT Simulation Code](https://github.com/ynoureddine/GMAT_OrbitalRendezvous/tree/main)
+
