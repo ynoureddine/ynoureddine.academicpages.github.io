@@ -312,4 +312,4 @@ compress_html:
   ignore:
     envs: development
 
-remote_theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman
