@@ -34,3 +34,9 @@ The project is explained in more extensive detail in the report below:
 This project consists of a set of Python scripts that simulate several aspects of aircraft flight trajectory using a set of input parameters. This is explained in more detail in the Github Repository linked below:
 
 [Github - Aircraft Dynamics Simulation](https://github.com/ynoureddine/Aircraft-Dynamics-Simulation)
+
+# 3. NASA Human Exploration Rover Challenge
+
+The report below highlights my efforts in our Purdue's (West Lafayette) entry in the 2019 NASA Human Exploration Rover Challenge.
+
+[NASA HERC 2019](https://drive.google.com/file/d/1204DI6JZW6p9wIukIiFeVCKsHY-M_5H8/view?usp=sharing)
