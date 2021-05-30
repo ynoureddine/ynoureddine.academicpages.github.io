@@ -23,5 +23,9 @@ group :jekyll_plugins do
   # gem "jekyll-archives"
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
+  gem "jekyll-paginate"
+  gem "jekyll-include-cache"
+  gem "jekyll-gist"
+  gem "jekyll-feed"
   gem 'hawkins'
 end
